@@ -28,3 +28,10 @@ Thumbs.db
 *.key
 *.crt
 tickets.json
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+# Datos locales de tickets
+ticket-counter.json
