@@ -35,3 +35,6 @@ tickets.json
 *.sqlite3
 # Datos locales de tickets
 ticket-counter.json
+
+# Backups locales del servidor
+server-BACKUP.js
