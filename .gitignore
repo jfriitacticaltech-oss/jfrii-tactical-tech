@@ -38,3 +38,7 @@ ticket-counter.json
 
 # Backups locales del servidor
 server-BACKUP.js
+
+server-BACKUP.js
+.env
+.env.*
